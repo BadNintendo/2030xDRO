@@ -138,7 +138,6 @@ module.exports = {
 ## Installation
 To install the 2030xDRO package, use the following command:
 
-```bash
 npm install 2030xDRO
 ```
 
